@@ -1,0 +1,4 @@
+﻿  Project.cpp
+D:\SEMESTER 5\Work\Github progress\Endless Runner Game\Project1\Project1\Project.cpp(403,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\SEMESTER 5\Work\Github progress\Endless Runner Game\Project1\Project1\Project.cpp(109,1): warning C4715: 'find': not all control paths return a value
+  Project1.vcxproj -> D:\SEMESTER 5\Work\Github progress\Endless Runner Game\Project1\x64\Debug\Project1.exe
